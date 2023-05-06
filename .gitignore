@@ -1,0 +1,25 @@
+
+### Visual Studio Code
+.vscode
+
+### Linux ###
+*~
+
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+### Webstorm project files ###
+.idea
+
+# Build properties (generated at build-time)
+.build.properties
+build.properties
+
+# vim swap files
+*.swp
